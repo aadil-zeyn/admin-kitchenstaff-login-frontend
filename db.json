@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "username": "admin",
+      "password": "sdfg",
+      "id": 3
+    },
+    {
+      "username": "df",
+      "password": "fg",
+      "id": 4
+    },
+    {
+      "username": "rgrq",
+      "password": "sg",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
